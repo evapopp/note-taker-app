@@ -7,7 +7,7 @@ Create an application called Note Taker that can be used to write and save notes
 HTML, CSS, Javascript, Node.js, Express, Bootstrap
 
 ## Links
-* Deployed Site:
+* Deployed Site: https://aqueous-harbor-93159.herokuapp.com/
 * Repo: https://github.com/evapopp/note-taker-app
 
 ## Page Preview
