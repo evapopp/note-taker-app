@@ -11,4 +11,4 @@ HTML, CSS, Javascript, Node.js, Express, Bootstrap
 * Repo: https://github.com/evapopp/note-taker-app
 
 ## Page Preview
-Upon completion
+![note taker app](./images/notes.png)
