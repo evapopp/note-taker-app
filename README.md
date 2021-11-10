@@ -1,7 +1,9 @@
 # Note Taker App
 
-## Objective
-Create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+## Description
+This application uses an Express.js back end to save and retrieve note data from a JSON file.
+
+![note taker app](./images/notes.png)
 
 ## Technologies
 HTML, CSS, Javascript, Node.js, Express, Bootstrap
@@ -10,5 +12,11 @@ HTML, CSS, Javascript, Node.js, Express, Bootstrap
 * Deployed Site: https://aqueous-harbor-93159.herokuapp.com/
 * Repo: https://github.com/evapopp/note-taker-app
 
-## Page Preview
-![note taker app](./images/notes.png)
+## License
+MIT
+
+## Author
+Eva Popp, Full Stack Developer
+
+Email: evapopp8@gmail.com
+Github: https://github.com/evapopp
